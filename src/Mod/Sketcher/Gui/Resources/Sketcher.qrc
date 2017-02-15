@@ -41,6 +41,9 @@
         <file>icons/SketcherWorkbench.svg</file>
         <file>icons/Sketcher_AlterConstruction.svg</file>
         <file>icons/Sketcher_AlterFillet.svg</file>
+        <file>icons/Sketcher_BSplineComb.svg</file>
+        <file>icons/Sketcher_BSplineDegree.svg</file>
+        <file>icons/Sketcher_BSplinePolygon.svg</file>
         <file>icons/Sketcher_Clone.svg</file>
         <file>icons/Sketcher_CloseShape.svg</file>
         <file>icons/Sketcher_Conics.svg</file>
